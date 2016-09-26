@@ -1,1 +1,1 @@
-# Machine-Learning-Clustering-Retrieval
+# Machine Learning - Clustering and Retrieval
